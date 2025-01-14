@@ -1,4 +1,4 @@
-## Deprecated Samples
+## Deprecated Samples 123
 
 The following samples have proven to be poor exercises because they are too simple, too complicated, or too confusing. We list them here for completeness.
 
